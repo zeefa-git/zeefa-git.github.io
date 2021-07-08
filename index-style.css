@@ -1,0 +1,66 @@
+html {scroll-behavior: smooth;
+                }
+
+body {background-image: url("https://i.pinimg.com/564x/96/a4/59/96a4599021fcf8f045ba56f20c4bce63.jpg");
+
+}
+
+
+
+/* Carousel */
+#kotak {width: 80vw;
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+margin: 0 auto;
+margin-top: 50px;
+margin-bottom: 50px;
+
+ }
+
+
+h5 {background-color: #ffe5b9;
+font-family: 'Langar', cursive;
+padding: 10px;
+color:#4c4c4c; 
+}
+
+@media screen and (max-width: 600px) 
+{body {display: none;}
+}
+
+/* navbar */
+.e1-navbar {font-family: 'Lobster', cursive;
+}
+
+.navbar-nav {justify-content: space-around;
+             display:flex;
+             flex-direction: row-reverse;
+}
+
+h1 {color:#a37eba; text-align:center;
+    font-family: 'Langar', cursive;
+    margin-bottom: 50px; 
+    }
+ .heading-1 {color:#4c4c4c; text-align:center;}
+ .heading-2 {color:red;}
+
+ /* box biodata dan tahun2 draw */
+ .box {background-color:#ffe5b9; 
+       width: 80vw;
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+       justify-content: center;
+       margin: 0 auto;
+       margin-top: 50px;
+       }
+  .e1 {font-family: 'Lobster', cursive;
+      }
+
+
+
+
+
+
